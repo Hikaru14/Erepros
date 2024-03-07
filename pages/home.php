@@ -8,14 +8,14 @@
           <div class="row d-flex">
             <div class="col-md pr-4 d-flex topper align-items-center">
               <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
-              <span class="text">+ 1235 2355 98</span>
+              <span class="text">+ 1810 715 5486</span>
             </div>
             <div class="col-md pr-4 d-flex topper align-items-center">
               <div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
-              <span class="text">youremail@email.com</span>
+              <span class="text">info@erepros.com</span>
             </div>
             <div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right justify-content-end">
-              <p class="mb-0 register-link"><span>Open hours:</span> <span>Monday - Sunday</span> <span>8:00AM - 9:00PM</span></p>
+              <p class="mb-0 register-link"><span>Open hours:</span> <span>Monday - Sunday</span> <span>9:00AM - 5:00PM</span></p>
             </div>
           </div>
         </div>
@@ -25,7 +25,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
       <a class="navbar-brand" href="home.php">
-        <img src="images/ereprosAssets/EreprosLogo.png" alt="" class="img-fluid" style="max-height: 50px;">
+        <img src="../images/ereprosAssets/EreprosLogo.png" alt="" class="img-fluid" style="max-height: 50px;">
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
@@ -33,9 +33,9 @@
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item"><a href="home.php" class="nav-link">Home</a></li>
-          <li class="nav-item active"><a href="about.php" class="nav-link">About</a></li>
-          <li class="nav-item"><a href="menu.php" class="nav-link">Menu</a></li>
+          <li class="nav-item active"><a href="home.php" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
+          <li class="nav-item"><a href="menu.php" class="nav-link">Services</a></li>
           <li class="nav-item"><a href="blog.php" class="nav-link">Stories</a></li>
           <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
           <li class="nav-item cta"><a href="reservation.php" class="nav-link">Book a table</a></li>
@@ -45,13 +45,45 @@
   </nav>
   <!-- END nav -->
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url(../images/ereprosAssets/header.jpg);" data-stellar-background-ratio="0.5">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row no-gutters slider-text align-items-end justify-content-center">
-        <div class="col-md-9 ftco-animate text-center mb-4">
-          <h1 class="mb-2 bread">About</h1>
-          <p class="breadcrumbs"><span class="mr-2"><a href="home.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>About <i class="ion-ios-arrow-forward"></i></span></p>
+  <section class="home-slider owl-carousel js-fullheight">
+    <div class="slider-item js-fullheight" style="background-image: url(../images/ereprosAssets/home1.jpg);">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row slider-text js-fullheight justify-content-center align-items-center" data-scrollax-parent="true">
+
+          <div class="col-md-12 col-sm-12 text-center ftco-animate">
+            <span class="subheading">Elite</span>
+            <h1 class="mb-4">Property Management</h1>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="slider-item js-fullheight" style="background-image: url(../images/ereprosAssets/home2.jpg);">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row slider-text js-fullheight justify-content-center align-items-center" data-scrollax-parent="true">
+
+          <div class="col-md-12 col-sm-12 text-center ftco-animate">
+            <span class="subheading">Elite</span>
+            <h1 class="mb-4">Professional &amp; management</h1>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="slider-item js-fullheight" style="background-image: url(../images/ereprosAssets/home3.jpg  );">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+
+          <div class="col-md-12 col-sm-12 text-center ftco-animate">
+            <span class="subheading">Elite</span>
+            <h1 class="mb-4">Elite Professional Property Management</h1>
+          </div>
+
         </div>
       </div>
     </div>
@@ -68,12 +100,12 @@
         <div class="col-md-5 wrap-about pt-5 pt-md-5 pb-md-3 ftco-animate">
           <div class="heading-section mb-4 my-5 my-md-0">
             <span class="subheading">About</span>
-            <h2 class="mb-4">Feliciano Restaurant</h2>
+            <h2 class="mb-4">Erepros</h2>
           </div>
           <p>We are committed to helping you buy or sell your home, have the highest level of local market expertise, and always make sure you get the best possible deal. Whether you're buying your first home or have been investing in the market for years, we make it easy and set you up for success.</p>
           <pc class="time">
             <span>Mon - Fri <strong>9 AM - 5 PM</strong></span>
-            <span><a href="#">+ 1-810-715-5486 </a></span>
+            <span><a href="#">+ 1-810-715-5486</a></span>
             </p>
         </div>
       </div>
@@ -98,7 +130,7 @@
               <div class="block-18">
                 <div class="text">
                   <strong class="number" data-number="100">0</strong>
-                  <span>Menus/Dish</span>
+                  <span>Total Property</span>
                 </div>
               </div>
             </div>
@@ -187,10 +219,139 @@
 
   <section class="ftco-section">
     <div class="container">
+      <div class="row no-gutters justify-content-center mb-5 pb-2">
+        <div class="col-md-12 text-center heading-section ftco-animate">
+          <span class="subheading">Latest</span>
+          <h2 class="mb-4">Our Apartment</h2>
+        </div>
+      </div>
+      <div class="row no-gutters d-flex align-items-stretch">
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(../images/ereprosAssets/apart1.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Apartment MI 2129</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">$29</span>
+                  </div>
+                </div>
+                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                <p><a href="#" class="btn btn-primary">Order now</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(../images/ereprosAssets/apart2.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>Apartment MI 2122</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">$29</span>
+                  </div>
+                </div>
+                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                <p><a href="#" class="btn btn-primary">Order now</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img order-md-last" style="background-image: url(../images/ereprosAssets/apart3.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>West Loop Apartment</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">$29</span>
+                  </div>
+                </div>
+                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                <p><a href="#" class="btn btn-primary">Order now</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img order-md-last" style="background-image: url(../images/ereprosAssets/apart4.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>East Loop Apartment</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">$29</span>
+                  </div>
+                </div>
+                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                <p><a href="#" class="btn btn-primary">Order now</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(../images/ereprosAssets/apart5.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>North Loop Apartment</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">$29</span>
+                  </div>
+                </div>
+                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                <p><a href="#" class="btn btn-primary">Order now</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
+          <div class="menus d-sm-flex ftco-animate align-items-stretch">
+            <div class="menu-img img" style="background-image: url(../images/ereprosAssets/apart6.jpg);"></div>
+            <div class="text d-flex align-items-center">
+              <div>
+                <div class="d-flex">
+                  <div class="one-half">
+                    <h3>South Loop Apartment</h3>
+                  </div>
+                  <div class="one-forth">
+                    <span class="price">$29</span>
+                  </div>
+                </div>
+                <p><span>Meat</span>, <span>Potatoes</span>, <span>Rice</span>, <span>Tomatoe</span></p>
+                <p><a href="#" class="btn btn-primary">Order now</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ftco-section">
+    <div class="container">
       <div class="row justify-content-center mb-5 pb-2">
         <div class="col-md-12 text-center heading-section ftco-animate">
-          <span class="subheading">Chef</span>
-          <h2 class="mb-4">Our Master Chef</h2>
+          <span class="subheading">Erepros</span>
+          <h2 class="mb-4">Our Team</h2>
         </div>
       </div>
       <div class="row">
@@ -198,11 +359,9 @@
           <div class="staff">
             <div class="img" style="background-image: url(../images/chef-4.jpg);"></div>
             <div class="text pt-4">
-              <h3>John Smooth</h3>
-              <span class="position mb-2">Restaurant Owner</span>
-              <!-- <p>A small river named Duden flows by their place and supplies</p> -->
+              <h3>Jennifer</h3>
+              <span class="position mb-2">Erepros Owner</span>
               <div class="faded">
-                <!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
                 <ul class="ftco-social d-flex">
                   <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                   <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -217,11 +376,9 @@
           <div class="staff">
             <div class="img" style="background-image: url(../images/chef-2.jpg);"></div>
             <div class="text pt-4">
-              <h3>Rebeca Welson</h3>
-              <span class="position mb-2">Head Chef</span>
-              <!-- <p>A small river named Duden flows by their place and supplies</p> -->
+              <h3>Maddy</h3>
+              <span class="position mb-2">Head Company</span>
               <div class="faded">
-                <!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
                 <ul class="ftco-social d-flex">
                   <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                   <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -236,11 +393,9 @@
           <div class="staff">
             <div class="img" style="background-image: url(../images/chef-3.jpg);"></div>
             <div class="text pt-4">
-              <h3>Kharl Branyt</h3>
-              <span class="position mb-2">Chef</span>
-              <!-- <p>A small river named Duden flows by their place and supplies</p> -->
+              <h3>Jaden</h3>
+              <span class="position mb-2">Storage Unit</span>
               <div class="faded">
-                <!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
                 <ul class="ftco-social d-flex">
                   <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                   <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -255,11 +410,9 @@
           <div class="staff">
             <div class="img" style="background-image: url(../images/chef-1.jpg);"></div>
             <div class="text pt-4">
-              <h3>Luke Simon</h3>
-              <span class="position mb-2">Chef</span>
-              <!-- <p>A small river named Duden flows by their place and supplies</p> -->
+              <h3>Kellie</h3>
+              <span class="position mb-2">Property Management</span>
               <div class="faded">
-                <!-- <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p> -->
                 <ul class="ftco-social d-flex">
                   <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                   <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -422,6 +575,70 @@
                   <span class="position">Customer</span>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="ftco-section bg-light">
+    <div class="container">
+      <div class="row justify-content-center mb-5">
+        <div class="col-md-7 text-center heading-section ftco-animate">
+          <span class="subheading">Blog</span>
+          <h2 class="mb-4">Recent Posts</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 ftco-animate">
+          <div class="blog-entry">
+            <a href="blog-single.php" class="block-20" style="background-image: url(../images/ereprosAssets/7.jpg);">
+            </a>
+            <div class="text pt-3 pb-4 px-4">
+              <div class="meta">
+                <div><a href="#">Sept. 06, 2019</a></div>
+                <div><a href="#">Admin</a></div>
+              </div>
+              <h3 class="heading"><a href="#">Best looking house</a></h3>
+              <p class="clearfix">
+                <a href="#" class="float-left read">Read more</a>
+                <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 ftco-animate">
+          <div class="blog-entry">
+            <a href="blog-single.php" class="block-20" style="background-image: url(../images/ereprosAssets/8.png);">
+            </a>
+            <div class="text pt-3 pb-4 px-4">
+              <div class="meta">
+                <div><a href="#">Sept. 06, 2019</a></div>
+                <div><a href="#">Admin</a></div>
+              </div>
+              <h3 class="heading"><a href="#">Best Rent house 2022</a></h3>
+              <p class="clearfix">
+                <a href="#" class="float-left read">Read more</a>
+                <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 ftco-animate">
+          <div class="blog-entry">
+            <a href="blog-single.php" class="block-20" style="background-image: url(../images/ereprosAssets/9.jpg);">
+            </a>
+            <div class="text pt-3 pb-4 px-4">
+              <div class="meta">
+                <div><a href="#">Sept. 06, 2019</a></div>
+                <div><a href="#">Admin</a></div>
+              </div>
+              <h3 class="heading"><a href="#">Fastest house got sold</a></h3>
+              <p class="clearfix">
+                <a href="#" class="float-left read">Read more</a>
+                <a href="#" class="float-right meta-chat"><span class="icon-chat"></span> 3</a>
+              </p>
             </div>
           </div>
         </div>
