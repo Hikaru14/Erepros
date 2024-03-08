@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'hikaru14/erepros',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'c4927710704a023b1dff90515197c832750ab86e',
+        'reference' => '0d5bd2d69b253a1d2c9f558c5fba53cddfbc9652',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'hikaru14/erepros' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'c4927710704a023b1dff90515197c832750ab86e',
+            'reference' => '0d5bd2d69b253a1d2c9f558c5fba53cddfbc9652',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
