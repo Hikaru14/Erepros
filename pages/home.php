@@ -39,23 +39,23 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
               Services
             </a>
-            <div class="dropdown-menu mega-menu dropdown-menu-dark" style="margin-top: -5%;" aria-labelledby="navbarDropdownMenuLink">
+            <div class="dropdown-menu mega-menu dropdown-menu-dark p-2" style="margin-top: -5%;" aria-labelledby="navbarDropdownMenuLink">
               <div class="container">
                 <div class="row">
                   <div class="col-md-4">
-                    <h6 class="dropdown-header">Real Estate</h6>
+                    <h6 class="dropdown-header mb-2">Real Estate</h6>
                     <a class="dropdown-item" href="real_estate.php">Houses</a>
                     <a class="dropdown-item" href="real_estate.php">Apartments</a>
                     <a class="dropdown-item" href="real_estate.php">Condos</a>
                   </div>
                   <div class="col-md-4">
-                    <h6 class="dropdown-header">Property Management</h6>
+                    <h6 class="dropdown-header mb-2">Property Management</h6>
                     <a class="dropdown-item" href="property_management.php">HOA</a>
                     <a class="dropdown-item" href="property_management.php">Commercial Management</a>
                   </div>
                   <div class="col-md-4">
-                    <h6 class="dropdown-header">Storage Units</h6>
-                    <a class="dropdown-item" href="storage_units.php">Rental and Management</a>
+                    <h6 class="dropdown-header mb-2">Storage Units</h6>
+                    <a class="dropdown-item" href="storage_units.php">Rental & Management</a>
                   </div>
                 </div>
               </div>
