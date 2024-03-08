@@ -30,19 +30,19 @@
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Instagram</h2>
                     <div class="thumb d-sm-flex">
-                        <a href="#" class="thumb-menu img" style="background-image: url(images/ereprosAssets/ig1.jpg);">
+                        <a href="#" class="thumb-menu img" style="background-image: url(../images/ereprosAssets/ig1.jpg);">
                         </a>
-                        <a href="#" class="thumb-menu img" style="background-image: url(images/ereprosAssets/ig2.jpg);">
+                        <a href="#" class="thumb-menu img" style="background-image: url(../images/ereprosAssets/ig2.jpg);">
                         </a>
-                        <a href="#" class="thumb-menu img" style="background-image: url(images/ereprosAssets/ig3.jpg);">
+                        <a href="#" class="thumb-menu img" style="background-image: url(../images/ereprosAssets/ig3.jpg);">
                         </a>
                     </div>
                     <div class="thumb d-flex">
-                        <a href="#" class="thumb-menu img" style="background-image: url(images/ereprosAssets/ig4.jpg);">
+                        <a href="#" class="thumb-menu img" style="background-image: url(../images/ereprosAssets/ig4.jpg);">
                         </a>
-                        <a href="#" class="thumb-menu img" style="background-image: url(images/ereprosAssets/ig5.jpg);">
+                        <a href="#" class="thumb-menu img" style="background-image: url(../images/ereprosAssets/ig5.jpg);">
                         </a>
-                        <a href="#" class="thumb-menu img" style="background-image: url(images/ereprosAssets/ig6.jpg);">
+                        <a href="#" class="thumb-menu img" style="background-image: url(../images/ereprosAssets/ig6.jpg);">
                         </a>
                     </div>
                 </div>
