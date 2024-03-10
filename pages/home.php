@@ -62,7 +62,6 @@
             </div>
           </li>
           <li class="nav-item"><a href="blog.php" class="nav-link">Stories</a></li>
-          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
           <li class="nav-item cta"><a href="reservation.php" class="nav-link">Book a table</a></li>
         </ul>
       </div>
