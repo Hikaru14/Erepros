@@ -39,7 +39,7 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
               Services
             </a>
-            <div class="dropdown-menu mega-menu dropdown-menu-dark p-2" style="margin-top: -5%;" aria-labelledby="navbarDropdownMenuLink">
+            <div class="dropdown-menu mega-menu dropdown-menu-dark p-2" style="margin-top: -5%; margin-left: -40%;" aria-labelledby="navbarDropdownMenuLink">
               <div class="container">
                 <div class="row">
                   <div class="col-md-4">
@@ -48,7 +48,7 @@
                     <a class="dropdown-item" href="real_estate.php">Apartments</a>
                     <a class="dropdown-item" href="real_estate.php">Condos</a>
                   </div>
-                  <div class="col-md-4">
+                  <div class="col-md-4" style="margin-left: -5%; margin-right:5%;">
                     <h6 class="dropdown-header mb-2">Property Management</h6>
                     <a class="dropdown-item" href="property_management.php">HOA</a>
                     <a class="dropdown-item" href="property_management.php">Commercial Management</a>
@@ -62,7 +62,6 @@
             </div>
           </li>
           <li class="nav-item"><a href="blog.php" class="nav-link">Stories</a></li>
-          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
           <li class="nav-item cta"><a href="reservation.php" class="nav-link">Book a table</a></li>
         </ul>
       </div>
@@ -93,26 +92,13 @@
 
           <div class="col-md-12 col-sm-12 text-center ftco-animate">
             <span class="subheading">Elite</span>
-            <h1 class="mb-4">Professional &amp; management</h1>
+            <h1 class="mb-4">Professional management</h1>
           </div>
 
         </div>
       </div>
     </div>
 
-    <div class="slider-item js-fullheight" style="background-image: url(../images/ereprosAssets/home3.jpg  );">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
-
-          <div class="col-md-12 col-sm-12 text-center ftco-animate">
-            <span class="subheading">Elite</span>
-            <h1 class="mb-4">Elite Professional Property Management</h1>
-          </div>
-
-        </div>
-      </div>
-    </div>
   </section>
 
 
@@ -381,9 +367,9 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6 col-lg-3 ftco-animate">
+        <div class="col-md-6 col-lg-4 ftco-animate">
           <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-4.jpg);"></div>
+            <div class="img" style="background-image: url(../images/profile/jen.jpg);"></div>
             <div class="text pt-4">
               <h3>Jennifer</h3>
               <span class="position mb-2">Erepros Owner</span>
@@ -398,9 +384,9 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
+        <div class="col-md-6 col-lg-4 ftco-animate">
           <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-2.jpg);"></div>
+            <div class="img" style="background-image: url(../images/profile/maddy.jpg);"></div>
             <div class="text pt-4">
               <h3>Maddy</h3>
               <span class="position mb-2">Head Company</span>
@@ -415,29 +401,12 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
+        <div class="col-md-6 col-lg-4 ftco-animate">
           <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-3.jpg);"></div>
+            <div class="img" style="background-image: url(../images/profile/jaiden.jpg);"></div>
             <div class="text pt-4">
-              <h3>Jaden</h3>
-              <span class="position mb-2">Storage Unit</span>
-              <div class="faded">
-                <ul class="ftco-social d-flex">
-                  <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                  <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
-          <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-1.jpg);"></div>
-            <div class="text pt-4">
-              <h3>Kellie</h3>
-              <span class="position mb-2">Property Management</span>
+              <h3>Jaiden</h3>
+              <span class="position mb-2">Storage Unit Manager</span>
               <div class="faded">
                 <ul class="ftco-social d-flex">
                   <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
