@@ -40,13 +40,13 @@
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active"><a href="home.php" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="home.php" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
               Services
             </a>
-            <div class="dropdown-menu mega-menu dropdown-menu-dark p-2" style="margin-top: -5%;" aria-labelledby="navbarDropdownMenuLink">
+            <div class="dropdown-menu mega-menu dropdown-menu-dark p-2" style="margin-top: -5%; margin-left: -40%;" aria-labelledby="navbarDropdownMenuLink">
               <div class="container">
                 <div class="row">
                   <div class="col-md-4">
@@ -55,7 +55,7 @@
                     <a class="dropdown-item" href="real_estate.php">Apartments</a>
                     <a class="dropdown-item" href="real_estate.php">Condos</a>
                   </div>
-                  <div class="col-md-4">
+                  <div class="col-md-4" style="margin-left: -5%; margin-right:5%;">
                     <h6 class="dropdown-header mb-2">Property Management</h6>
                     <a class="dropdown-item" href="property_management.php">HOA</a>
                     <a class="dropdown-item" href="property_management.php">Commercial Management</a>
