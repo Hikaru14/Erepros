@@ -92,26 +92,13 @@
 
           <div class="col-md-12 col-sm-12 text-center ftco-animate">
             <span class="subheading">Elite</span>
-            <h1 class="mb-4">Professional &amp; management</h1>
+            <h1 class="mb-4">Professional management</h1>
           </div>
 
         </div>
       </div>
     </div>
 
-    <div class="slider-item js-fullheight" style="background-image: url(../images/ereprosAssets/home3.jpg  );">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
-
-          <div class="col-md-12 col-sm-12 text-center ftco-animate">
-            <span class="subheading">Elite</span>
-            <h1 class="mb-4">Elite Professional Property Management</h1>
-          </div>
-
-        </div>
-      </div>
-    </div>
   </section>
 
 
