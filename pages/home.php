@@ -380,9 +380,9 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6 col-lg-3 ftco-animate">
+        <div class="col-md-6 col-lg-4 ftco-animate">
           <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-4.jpg);"></div>
+            <div class="img" style="background-image: url(../images/profile/jen.jpg);"></div>
             <div class="text pt-4">
               <h3>Jennifer</h3>
               <span class="position mb-2">Erepros Owner</span>
@@ -397,9 +397,9 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
+        <div class="col-md-6 col-lg-4 ftco-animate">
           <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-2.jpg);"></div>
+            <div class="img" style="background-image: url(../images/profile/maddy.jpg);"></div>
             <div class="text pt-4">
               <h3>Maddy</h3>
               <span class="position mb-2">Head Company</span>
@@ -414,29 +414,12 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
+        <div class="col-md-6 col-lg-4 ftco-animate">
           <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-3.jpg);"></div>
+            <div class="img" style="background-image: url(../images/profile/jaiden.jpg);"></div>
             <div class="text pt-4">
-              <h3>Jaden</h3>
-              <span class="position mb-2">Storage Unit</span>
-              <div class="faded">
-                <ul class="ftco-social d-flex">
-                  <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-                  <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 ftco-animate">
-          <div class="staff">
-            <div class="img" style="background-image: url(../images/chef-1.jpg);"></div>
-            <div class="text pt-4">
-              <h3>Kellie</h3>
-              <span class="position mb-2">Property Management</span>
+              <h3>Jaiden</h3>
+              <span class="position mb-2">Storage Unit Manager</span>
               <div class="faded">
                 <ul class="ftco-social d-flex">
                   <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
